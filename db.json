@@ -25,7 +25,7 @@
     {
       "id":"03",
       "name": "Nerdfeed",
-      "image": "https://ibb.co/Y2XCytCg",
+      "image": "https://i.ibb.co/0qK7Ff7/nerdfeed.png",
       "desc":"Aplicação React criada com base nos fundamentos do Reactjs da Trilha ReactJS da Rocketseate implementada usando o Vite e TypeScript. ",
       "botaoProj":"https://github.com/oeduardodev/ignite_NerdFeed",
       "linkOnline":"https://nerdfeed.vercel.app/",
@@ -83,7 +83,7 @@
     {
       "id":"08",
       "name": "Cipe Marcas",
-      "image": "https://ibb.co/Y3TzDNL",
+      "image": "https://i.ibb.co/g3F5vrR/cipe-marcas.png",
       "desc":"Site criado para a empresa Cipe Marcas, site visa modernizar a empresa visto que é um ótimo meio para aqueles que querem saber mais sobre a mesma.",
       "botaoProj":"https://cipemarcas.com/",
       "linkOnline":"https://cipemarcas.com/",
